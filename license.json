@@ -4,5 +4,6 @@
   "users": [
     {"login": 81088207, "server": "ECMarkets-MT5-Live01", "expiry": "2099-12-31", "note": "Phil Yang"},
     {"login": 94438, "server": "ThinkMarkets-Live", "expiry": "2099-12-31", "note": "Daisy 客戶"}
+    {"login": 700001901, "server": "STARTRADERFinancial-Live 3", "expiry": "2099-12-31", "note": "Daisy 客戶"}
   ]
 }
