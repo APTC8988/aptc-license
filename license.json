@@ -9,5 +9,9 @@
     {"login": 335022, "server": "EtoMarkets-Live", "expiry": "2099-12-31", "note": "Daisy 客戶"}
     {"login": 85019676, "server": "ECMarketsFinancial-MT5-Live04", "expiry": "2099-12-31", "note": "Daisy 客戶"}
     {"login": 70286529, "server": "MegaFusionGroupPty-Trade", "expiry": "2099-12-31", "note": "Daisy 客戶"}
+    {"login": 60436583, "server": "MegaFusionGroupPty-Trade", "expiry": "2099-12-31", "note": "Daisy 客戶"}
+    {"login": 3312051, "server": "MohicansMarkets-Live01", "expiry": "2099-12-31", "note": "Daisy 客戶"}
+    {"login": 33297505, "server": "BCRCo-REAL", "expiry": "2099-12-31", "note": "Daisy 客戶"}
+    {"login": 29137919, "server": "VTMarkets-Live5", "expiry": "2099-12-31", "note": "Daisy 客戶"}
   ]
 }
