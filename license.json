@@ -15,6 +15,6 @@
     {"login": 3312051, "server": "MohicansMarkets-Live01", "expiry": "2099-12-31", "note": "Daisy 客戶"}
     {"login": 33297505, "server": "BCRCo-REAL", "expiry": "2099-12-31", "note": "Daisy 客戶"}
     {"login": 29137919, "server": "VTMarkets-Live5", "expiry": "2099-12-31", "note": "Daisy 客戶"}
-    {"login": 8010234, "server": "StarBridgeCapitalGroup-MT5-1", "expiry": "2099-12-31", "note": "Daisy 客戶"}
+    {"login": 8010234, "server": "StarBridgeCapitalGroup-MT5-Live", "expiry": "2099-12-31", "note": "Daisy 客戶"}
   ]
 }
